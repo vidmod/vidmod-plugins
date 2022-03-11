@@ -4,3 +4,6 @@
 [submodule "vidmod-plugins-core"]
 	path = vidmod-plugins-core
 	url = git@github.com:vidmod/vidmod-plugins-core.git
+[submodule "vidmod-plugins-dsp"]
+	path = vidmod-plugins-dsp
+	url = git@github.com:vidmod/vidmod-plugins-dsp.git
